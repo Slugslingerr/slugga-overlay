@@ -1,1 +1,9 @@
-print "Hello cruel world"
+print "Hello Cruel World"
+
+print "Goodbye Cruel World!"
+
+
+
+
+
+
